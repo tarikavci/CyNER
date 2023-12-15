@@ -31,7 +31,6 @@ setup(
         'spacy',
         'ipywidgets',
         'spacy-transformers',
-        'Pillow>=7.1.0',
         'sudachipy',
         'sudachidict_core',
         'uvicorn==0.11.8',
