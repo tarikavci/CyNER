@@ -28,22 +28,7 @@ setup(
     # test_suite='tests',
     install_requires=[
         'flair',
-        'spacy',
-        'ipywidgets',
-        'spacy-transformers',
-        'sudachipy',
-        'sudachidict_core',
-        'uvicorn==0.11.8',
-        'jinja2==2.11.3',
-        'aiofiles==0.5.0',
-        'fastapi==0.65.2',
-        'toml',
-        'tensorboard',
-        'torch',
-        'transformers',
-        'sentencepiece',
-        'seqeval',
-        'segtok'
+        'spacy'
     ],
     python_requires='>=3.6',
 )
