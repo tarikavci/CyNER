@@ -28,7 +28,10 @@ setup(
     # test_suite='tests',
     install_requires=[
         'flair',
-        'spacy'
+        'spacy',
+        'ipywidgets',
+        'spacy-transformers',
+        'Pillow>=7.1.0'
     ],
     python_requires='>=3.6',
 )
